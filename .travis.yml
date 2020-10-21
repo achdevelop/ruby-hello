@@ -1,3 +1,4 @@
 language: ruby
-run:
-    - "ruby hi.rb"
+rvm:
+ - 2.2
+ - jruby
